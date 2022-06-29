@@ -32,7 +32,7 @@ function App() {
     function pressEnter(event) {
         if (event.key === "Enter") {
             okNumber();
-            // console.log('press enter');
+            
         }
     }
 
